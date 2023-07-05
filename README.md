@@ -8,6 +8,7 @@ You should collect as much data as you can in order to improve the output of you
 analysis. To get started with the data collection, you can use the “Jupyter
 Notebook” in the Resources folder to run some Python code that will help to
 collect some data.
+
 Analyze data
 Once you have your dataset, you need to prepare it. The data will be very messy
 and contain purely text. You will need to perform data cleaning in order to prepare
@@ -19,6 +20,7 @@ however, you can use any tool that you wish. You can use some of the
 documentation websites provided in the Resources folder to analyze the data.
 Please ensure that you have created a folder called "data" and mapped your file
 path.
+
 Present insights
 Your manager would like you to summarize your findings within a single
 PowerPoint slide, so that they can present the results at the next board meeting.
